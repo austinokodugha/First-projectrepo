@@ -1,0 +1,31 @@
+.container{margin: 50px; background-color: blanchedalmond; padding: 20px;}
+ 
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover{color: blue;}
+a:active{color: red;}
+.header1{color: black;}
+.para1{font-style: italic; border: 10px solid red; border-radius: 1em; padding: 20px;}
+.container h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: italic;
+text-align: center;
+text-decoration: underline;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+}
+.para2{
+    border: 2px dotted; border-radius: 1em;
+    padding: 20px;
+}
+.categories{border: 1px solid grey;
+border-radius: 15px;
+}
+.categories h2{
+text-align: center;
+}
+.categories ul{
+    padding: 0;
+    list-style: none;
+    
+}
